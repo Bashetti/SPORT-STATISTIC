@@ -1,0 +1,95 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 520px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 12px 446px 0 auto;
+}
+
+.u-section-1 .u-form-1 {
+  height: 337px;
+  margin: 69px 261px 60px 309px;
+}
+
+.u-section-1 .u-label-1 {
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-input-1 {
+  background-image: none;
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-label-2 {
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-input-2 {
+  background-image: none;
+  font-size: 1.25rem;
+}
+
+.u-section-1 .u-label-3 {
+  font-size: 1.5rem;
+}
+
+.u-section-1 .u-btn-1 {
+  width: 100%;
+  font-size: 1.25rem;
+  letter-spacing: 0px;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 368px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 161px;
+    margin-left: 209px;
+  }
+
+  .u-section-1 .u-input-1 {
+    font-family: Roboto, sans-serif;
+  }
+
+  .u-section-1 .u-input-2 {
+    font-family: Roboto, sans-serif;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 282px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 51px;
+    margin-left: 99px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 212px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 133px;
+  }
+}
